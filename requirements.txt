@@ -2,4 +2,10 @@ Aplikacja moze:
 - utworzyc, usunac, edytowac domena
 - utowrzyc,zedytowac, usunac haslo
 - mozliwosc kilku userow w danej domenie
-- 
+- mozliwosc zapisanie w dropboxie i Google Dysku
+- koniecznosc logowania do aplikacji i/lub dropboxa
+- chronienie hasel wewnatrz aplikacji
+- synchronizacja z dropboxem
+- rozwijac zgodnie z TDD
+- ma byc gui
+- ma byc dostepne na telefon i komputer
